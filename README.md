@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](github-readme-stats-instance-ivory.vercel.app/api?username=adri0256)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adri0256&theme=radical)
 
 <!--
 **adri0256/adri0256** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
